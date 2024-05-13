@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+.box1{
+    background:#607d8b;
+}
+.box2{
+    background:#ad0b42;
+}
+.box3{
+    background:#3e6f04;
+}
+.box4{
+    background:#040b31;
+}
+.hero div{
+    padding:30px;
+}
+h1{
+    color:#fff;
+}
+.hero{
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+}
