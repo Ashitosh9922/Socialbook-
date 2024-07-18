@@ -2,7 +2,7 @@
 
 ## Overview
 
-SocialBook is a web-based social networking platform where users can connect with friends, share updates, post photos, and engage in conversations. It provides a user-friendly interface for users to interact and stay connected with their social circle.
+SocialBook is a web-based frontend social networking platform where users can connect with friends, share updates, post photos, and engage in conversations. It provides a user-friendly interface for users to interact and stay connected with their social circle.
 
 ## Features
 
